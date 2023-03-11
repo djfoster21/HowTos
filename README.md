@@ -13,3 +13,4 @@ Stuff written here might be wrong or not be the optimal way to do it.
 
 ### Linux
 - [Add repositories without apt-key](linux/add-repositories.md)
+- [ZSH plugins](linux/zsh-plugins.md)
